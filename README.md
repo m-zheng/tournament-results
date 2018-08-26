@@ -10,7 +10,7 @@ It has a Python module that uses the PostgreSQL database to keep track of player
   - Install [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/).
   - Clone this repository to your local machine:
     ```
-    git clone https://github.com/minghua1991/tournament-results.git
+    git clone https://github.com/m-zheng/tournament-results.git
     ```
   - Go to the directory that contains all code of this repository:
     ```
